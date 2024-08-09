@@ -1,0 +1,9 @@
+{
+  "Lua.diagnostics.globals": ["ao"],
+  "Lua.diagnostics.disable": [
+    "undefined-global",
+    "lowercase-global",
+    "missing-return-value"
+  ],
+  "editor.accessibilityPageSize": 8
+}
